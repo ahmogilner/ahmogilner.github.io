@@ -8,7 +8,7 @@ p {
 }
 
 img {
-  border-style: inset; /*other options are dotted, dashed, double, groove, ridge, outset, and none*/
+  border-style: dotted; /*other options are dotted, dashed, double, groove, ridge, outset, and none*/
   border-width: 4px;
   border_color: orange; /*you need to first have a style before you can set a color!*/
 	
